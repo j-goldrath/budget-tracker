@@ -1,3 +1,5 @@
+import { saveRecord } from "./indexedDb";
+
 let transactions = [];
 let myChart;
 

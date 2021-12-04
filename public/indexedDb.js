@@ -69,7 +69,7 @@ function checkDatabase() {
   }
 }
 
-function saveRecord(record) {
+export function saveRecord(record) {
   const transaction = db.transaction(["store"], "readwrite");
   const store = transaction.objectStore("store");
   store.add(record);
