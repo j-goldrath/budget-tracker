@@ -1,4 +1,4 @@
-# Online/Offline Progressive Budget Traker PWA
+# Online/Offline Progressive Budget Tracker PWA
 This is a simple app that allows you to track your expenses and incomes, item by item, as well as providing a graph to visually illustrate gains/expenditures over time.
 
 ## Installation
